@@ -7,5 +7,6 @@ public class MediatorMain {
 
     robert.sendMessage("Hi! John!");
     john.sendMessage("Hello! Robert!");
+    robert.sendMessage("Goodbye! John!");
   }
 }
