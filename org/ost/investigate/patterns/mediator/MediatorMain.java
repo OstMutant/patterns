@@ -1,4 +1,4 @@
-package org.ost.test.patterns.mediator;
+package org.ost.investigate.patterns.mediator;
 
 public class MediatorMain {
   public static void main(String[] args) {

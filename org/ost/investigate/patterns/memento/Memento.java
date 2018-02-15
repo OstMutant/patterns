@@ -1,4 +1,4 @@
-package org.ost.test.patterns.memento;
+package org.ost.investigate.patterns.memento;
 
 public class Memento {
   private final String state;

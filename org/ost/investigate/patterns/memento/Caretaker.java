@@ -1,4 +1,4 @@
-package org.ost.test.patterns.memento;
+package org.ost.investigate.patterns.memento;
 
 import java.util.ArrayList;
 import java.util.List;
