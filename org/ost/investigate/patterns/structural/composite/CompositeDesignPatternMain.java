@@ -1,5 +1,5 @@
 package org.ost.investigate.patterns.structural.composite;
-
+// https://dzone.com/articles/composite-design-pattern-java-0
 public class CompositeDesignPatternMain {
 
     public static void main(String... args) {
